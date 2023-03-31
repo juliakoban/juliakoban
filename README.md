@@ -1,4 +1,9 @@
 ### Hi there 👋
 ```yaml
-* YOUR TEXT GOES HERE *
+name: Julia Koban
+located_in: Wrocław, Poland
+education:
+[
+"Bachelor's in Quantum Engineering"
+]
 ```
