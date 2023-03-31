@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-## Subheader
-Pomeranian chau chau
-
 <!--
 **juliakoban/juliakoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
