@@ -13,6 +13,6 @@ technical_background:
   "Numerical analysis course; deisign and analysys of techniques to give solutions to science and engineering problems"
 ]
 
-currently_learning: ["c, c++, git"]
+currently_learning: ["c, c++, c#"]
 hobbies: ["Game Development, Photography, Quantum Mechanics"]
 ```
