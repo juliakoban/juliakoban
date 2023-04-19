@@ -11,7 +11,8 @@ education:
 
 skills:
 [
-  "c++, c++ OOP"
+  "c++"
+  "git"
   "numerical analysis; deisign and analysys of techniques to give solutions to science and engineering problems"
 ]
 
